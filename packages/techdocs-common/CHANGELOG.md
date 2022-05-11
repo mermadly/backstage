@@ -1,5 +1,12 @@
 # @backstage/techdocs-common
 
+## 0.11.15-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-techdocs-node@1.1.1-next.2
+
 ## 0.11.15-next.1
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @backstage/plugin-sonarqube
 
+## 0.3.5-next.3
+
+### Patch Changes
+
+- e462112be5: Updated dependency `rc-progress` to `3.3.2`.
+- Updated dependencies
+  - @backstage/core-components@0.9.4-next.3
+
 ## 0.3.5-next.2
 
 ### Patch Changes

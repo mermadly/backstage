@@ -1,6 +1,6 @@
 {
   "name": "example-app",
-  "version": "0.2.71-next.2",
+  "version": "0.2.71-next.3",
   "private": true,
   "backstage": {
     "role": "frontend"
@@ -11,8 +11,8 @@
     "@backstage/catalog-model": "^1.0.2-next.0",
     "@backstage/cli": "^0.17.1-next.2",
     "@backstage/config": "^1.0.1-next.0",
-    "@backstage/core-app-api": "^1.0.2-next.1",
-    "@backstage/core-components": "^0.9.4-next.1",
+    "@backstage/core-app-api": "^1.0.2-next.2",
+    "@backstage/core-components": "^0.9.4-next.3",
     "@backstage/core-plugin-api": "^1.0.2-next.1",
     "@backstage/integration-react": "^1.1.0-next.2",
     "@backstage/plugin-airbrake": "^0.3.5-next.2",
@@ -54,9 +54,9 @@
     "@backstage/plugin-shortcuts": "^0.2.6-next.0",
     "@backstage/plugin-stack-overflow": "^0.1.1-next.2",
     "@backstage/plugin-tech-radar": "^0.5.12-next.0",
-    "@backstage/plugin-techdocs": "^1.1.1-next.2",
-    "@backstage/plugin-techdocs-react": "^0.1.1-next.2",
-    "@backstage/plugin-techdocs-module-addons-contrib": "^0.1.0-next.2",
+    "@backstage/plugin-techdocs": "^1.1.1-next.4",
+    "@backstage/plugin-techdocs-react": "^1.0.0-next.3",
+    "@backstage/plugin-techdocs-module-addons-contrib": "^1.0.0-next.3",
     "@backstage/plugin-todo": "^0.2.7-next.2",
     "@backstage/plugin-user-settings": "^0.4.4-next.0",
     "@backstage/plugin-tech-insights": "^0.2.1-next.2",

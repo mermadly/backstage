@@ -1,5 +1,13 @@
 # @backstage/plugin-techdocs-node
 
+## 1.1.1-next.2
+
+### Patch Changes
+
+- c2a1d8935e: Updated the default version of the `@spotify/techdocs` container used when `techdocs.generator.runIn` is `docker` to `v1.0.3`.
+- Updated dependencies
+  - @backstage/integration@1.2.0-next.2
+
 ## 1.1.1-next.1
 
 ### Patch Changes

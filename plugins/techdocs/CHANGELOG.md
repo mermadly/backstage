@@ -1,5 +1,15 @@
 # @backstage/plugin-techdocs
 
+## 1.1.1-next.4
+
+### Patch Changes
+
+- 0ad901569f: Hidden exports related to experimental TechDocs reader functionality have been removed and can no longer be imported. In the unlikely event you were using these exports, you can now take advantage of the officially supported and generally available TechDocs Addon framework instead.
+- Updated dependencies
+  - @backstage/integration@1.2.0-next.2
+  - @backstage/core-components@0.9.4-next.3
+  - @backstage/plugin-techdocs-react@1.0.0-next.3
+
 ## 1.1.1-next.3
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @backstage/plugin-techdocs-react
 
+## 1.0.0-next.3
+
+### Major Changes
+
+- 0ad901569f: The TechDocs Addon framework is now generally available.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.9.4-next.3
+
 ## 0.1.1-next.2
 
 ### Patch Changes

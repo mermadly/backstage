@@ -1,5 +1,11 @@
 # @backstage/integration
 
+## 1.2.0-next.2
+
+### Minor Changes
+
+- e295ce87de: added the possibility to handle raw Gitlab URLs with nested namespaces
+
 ## 1.2.0-next.1
 
 ### Patch Changes

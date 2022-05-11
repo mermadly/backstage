@@ -1,5 +1,14 @@
 # @backstage/plugin-codescene
 
+## 0.1.0-next.1
+
+### Patch Changes
+
+- 95598f4fd5: Updated dependency `@testing-library/user-event` to `^14.0.0`.
+- e462112be5: Updated dependency `rc-progress` to `3.3.2`.
+- Updated dependencies
+  - @backstage/core-components@0.9.4-next.3
+
 ## 0.1.0-next.0
 
 ### Minor Changes

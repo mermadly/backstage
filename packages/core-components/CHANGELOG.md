@@ -1,5 +1,12 @@
 # @backstage/core-components
 
+## 0.9.4-next.3
+
+### Patch Changes
+
+- e462112be5: Updated dependency `rc-progress` to `3.3.2`.
+- 2295b4ab2b: Add controls to Storybook stories
+
 ## 0.9.4-next.2
 
 ### Patch Changes
